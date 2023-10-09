@@ -180,7 +180,7 @@ void student::display1()
    		 cout<<"\n\t+----------------------------------------------------------------------------------------+";               //whole structure of the result table........
    		 cout<<"\n\t|   Subject Name      |\t  Marks Obtained  |\tOut-Of   |  Percentage   |\tGrade    |";
    		 cout<<"\n\t+----------------------------------------------------------------------------------------+";
-   		 cout<<"\n\t|\t OOP          |\t      "<<oop<<"           |\t"<<100 <<"\t |"<<"\t\t |"<<"\t\t |"<<endl;
+   		 cout<<"\n\t|\t Obeject oriented          |\t      "<<oop<<"           |\t"<<100 <<"\t |"<<"\t\t |"<<"\t\t |"<<endl;
    		 cout<<"\t| \t DSU          |\t      "<<dsu<<"          |\t"<<100 <<"\t |"<<"\t\t |"<<"\t\t |"<<endl;
    		 cout<<"\t| \t DTE          |\t      "<<dte<<"           |\t"<<100 <<"\t |"<<"\t"<<per<<"%\t |\t"<<grade<<"\t |"<<endl;
    		 cout<<"\t| \t DMS          |\t      "<<dms<<"          |\t"<<100 <<"\t |"<<"\t\t |"<<"\t\t |"<<endl;
